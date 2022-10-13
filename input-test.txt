@@ -1,0 +1,2 @@
+Oi eu sou um arquivo de teste para reconhecimento pelo spacy
+
