@@ -1,5 +1,6 @@
 from flask import Flask, request, jsonify
 import spacy
+import pytesseract
 
 #nlp = spacy.load("pt_core_news_sm")
 #doc = nlp(sentences[0])
